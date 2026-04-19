@@ -3,7 +3,7 @@
 This is a fun, retro-style logic game where the player tries to guess a secret number between 1 and 20.
 
 ## 🔗 Live Demo
-[Click here to play the game!](YOUR_GITHUB_PAGES_LINK_HERE)
+[Click here to play the game!](https://12344321-umer.github.io/guess-the-number-game/)
 
 ## 🎮 How to Play
 1. Enter a number in the input box.
